@@ -22,7 +22,7 @@ Begin Window MainWindow
    MinWidth        =   64
    Placement       =   0
    Resizeable      =   False
-   Title           =   "8 Queens Solution Demo"
+   Title           =   "8 Queens Solution"
    Visible         =   True
    Width           =   334
    Begin PushButton SolveButton
